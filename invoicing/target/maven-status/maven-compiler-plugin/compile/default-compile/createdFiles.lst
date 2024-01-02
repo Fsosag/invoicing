@@ -1,0 +1,5 @@
+com/invoicing/invoicing/dto/UserDTO.class
+com/invoicing/invoicing/service/UserService.class
+com/invoicing/invoicing/dao/UserDAO.class
+com/invoicing/invoicing/InvoicingApplication.class
+com/invoicing/invoicing/controller/UserController.class
